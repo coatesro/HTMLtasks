@@ -1,0 +1,29 @@
+html{
+  background: url("tenor.gif");
+   background-size: 100%; 
+}
+ body {
+ background-color: olive; 
+ }
+ 
+h1 {
+    border-style: ridge;
+    border-color: blueviolet;
+    color: navy;
+    margin-left: 20px;
+    letter-spacing: 70px;
+}
+p {
+    
+    font-size: 20;
+    border-style: dotted;
+    border-bottom-color: orangered;
+    color: orange;
+}
+ p.para2 {
+    letter-spacing: 30px;
+    font-size: 20;
+    border-style: groove;
+    border-bottom-color: orangered;
+    color: orange;
+} 
